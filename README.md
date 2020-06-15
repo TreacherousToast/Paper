@@ -61,4 +61,4 @@ Special Thanks To:
 Info about this fork:
 ------
 
-The purpose of this fork is to maintain a version of Paper that supports TNT duplication and possibly some other technical quirks found in the vanilla game, like 0-tick farming.
+The purpose of this fork is to maintain a version of Paper that supports TNT duplication and possibly some other technical quirks found in the vanilla game, like 0-tick farming. When the mainline version of Paper supports enabling or disabling TNT dupers, this repository will no longer be needed.
